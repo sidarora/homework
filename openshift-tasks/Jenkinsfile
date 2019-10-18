@@ -279,7 +279,7 @@ podTemplate(
     }
   }
 }
-
+}
 // Convenience Functions to read version from the pom.xml
 // Do not change anything below this line.
 // --------------------------------------------------------
